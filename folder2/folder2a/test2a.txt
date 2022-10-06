@@ -1,3 +1,1 @@
-Test2a content:
-
-gradle.build
+Test2a content.
