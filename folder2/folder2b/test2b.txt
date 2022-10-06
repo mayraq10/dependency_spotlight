@@ -1,3 +1,1 @@
-Test2b content:
-
-not a dependency
+Test2b content.
