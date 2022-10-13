@@ -1,0 +1,170 @@
+2022-10-13 15:35:29,371 - INFO: Test the custom logger.
+2022-10-13 15:35:29,374 - INFO: Connected to GH
+2022-10-13 15:35:29,604 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=4963, limit=5000))
+2022-10-13 15:35:30,449 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=4962, limit=5000))
+2022-10-13 15:35:30,760 - INFO: ----- Processing repo ----- :  enfuse/akka-scala-example
+2022-10-13 15:35:32,604 - INFO: Paths copied
+2022-10-13 15:35:32,694 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=4947, limit=5000))
+2022-10-13 15:35:33,031 - INFO: ----- Processing repo ----- :  enfuse/asae-assessment
+2022-10-13 15:35:33,033 - INFO: Paths copied
+2022-10-13 15:35:33,122 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=4945, limit=5000))
+2022-10-13 15:35:33,442 - INFO: ----- Processing repo ----- :  enfuse/asae-sandbox-config
+2022-10-13 15:35:33,444 - INFO: Paths copied
+2022-10-13 15:35:33,538 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=4943, limit=5000))
+2022-10-13 15:35:33,863 - INFO: ----- Processing repo ----- :  enfuse/Azure-Redis-Spring-Demo
+2022-10-13 15:35:36,063 - INFO: Paths copied
+2022-10-13 15:35:36,216 - INFO: Contents extracted
+2022-10-13 15:35:36,307 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=4924, limit=5000))
+2022-10-13 15:35:36,398 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=4924, limit=5000))
+2022-10-13 15:35:36,711 - INFO: ----- Processing repo ----- :  enfuse/Azure-Spring-Cloud-Example
+2022-10-13 15:35:38,513 - INFO: Paths copied
+2022-10-13 15:35:38,685 - INFO: Contents extracted
+2022-10-13 15:35:38,779 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=4907, limit=5000))
+2022-10-13 15:35:38,881 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=4907, limit=5000))
+2022-10-13 15:35:39,320 - INFO: ----- Processing repo ----- :  enfuse/candidate-portal
+2022-10-13 15:35:43,170 - INFO: Paths copied
+2022-10-13 15:35:43,261 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=4880, limit=5000))
+2022-10-13 15:35:43,720 - INFO: ----- Processing repo ----- :  enfuse/candidate-service
+2022-10-13 15:35:49,388 - INFO: Paths copied
+2022-10-13 15:35:49,662 - INFO: Contents extracted
+2022-10-13 15:35:49,762 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=4838, limit=5000))
+2022-10-13 15:35:49,852 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=4838, limit=5000))
+2022-10-13 15:35:50,221 - INFO: ----- Processing repo ----- :  enfuse/crate
+2022-10-13 15:38:37,274 - INFO: Paths copied
+2022-10-13 15:38:41,465 - INFO: Contents extracted
+2022-10-13 15:38:41,554 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=3654, limit=5000))
+2022-10-13 15:38:41,655 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=3654, limit=5000))
+2022-10-13 15:38:41,961 - INFO: ----- Processing repo ----- :  enfuse/crypto-party
+2022-10-13 15:38:44,187 - INFO: Paths copied
+2022-10-13 15:38:44,348 - INFO: Contents extracted
+2022-10-13 15:38:44,447 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=3635, limit=5000))
+2022-10-13 15:38:44,544 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=3635, limit=5000))
+2022-10-13 15:38:44,858 - INFO: ----- Processing repo ----- :  enfuse/cybertron
+2022-10-13 15:38:46,664 - INFO: Paths copied
+2022-10-13 15:38:46,752 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=3620, limit=5000))
+2022-10-13 15:38:47,068 - INFO: ----- Processing repo ----- :  enfuse/data-storage-demo
+2022-10-13 15:38:49,907 - INFO: Paths copied
+2022-10-13 15:38:50,058 - INFO: Contents extracted
+2022-10-13 15:38:50,151 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=3599, limit=5000))
+2022-10-13 15:38:50,247 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=3599, limit=5000))
+2022-10-13 15:38:51,627 - INFO: ----- Processing repo ----- :  enfuse/dotnet-topdown-test
+2022-10-13 15:38:53,471 - INFO: Paths copied
+2022-10-13 15:38:53,561 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=3586, limit=5000))
+2022-10-13 15:38:53,957 - INFO: ----- Processing repo ----- :  enfuse/eui
+2022-10-13 15:40:17,825 - INFO: Paths copied
+2022-10-13 15:40:17,921 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=3036, limit=5000))
+2022-10-13 15:40:18,231 - INFO: ----- Processing repo ----- :  enfuse/geode-demo
+2022-10-13 15:40:22,669 - INFO: Paths copied
+2022-10-13 15:40:22,804 - INFO: Contents extracted
+2022-10-13 15:40:22,894 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=3001, limit=5000))
+2022-10-13 15:40:22,985 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=3001, limit=5000))
+2022-10-13 15:40:23,310 - INFO: ----- Processing repo ----- :  enfuse/geode-listeners
+2022-10-13 15:40:27,189 - INFO: Paths copied
+2022-10-13 15:40:27,332 - INFO: Contents extracted
+2022-10-13 15:40:27,419 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=2971, limit=5000))
+2022-10-13 15:40:27,506 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=2971, limit=5000))
+2022-10-13 15:40:27,824 - INFO: ----- Processing repo ----- :  enfuse/google-kg-ui-demo
+2022-10-13 15:40:30,978 - INFO: Paths copied
+2022-10-13 15:40:31,082 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=2948, limit=5000))
+2022-10-13 15:40:31,401 - INFO: ----- Processing repo ----- :  enfuse/grapple
+2022-10-13 15:40:31,403 - INFO: Paths copied
+2022-10-13 15:40:31,486 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=2946, limit=5000))
+2022-10-13 15:40:31,778 - INFO: ----- Processing repo ----- :  enfuse/GreetingDemo
+2022-10-13 15:40:34,403 - INFO: Paths copied
+2022-10-13 15:40:34,557 - INFO: Contents extracted
+2022-10-13 15:40:34,649 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=2925, limit=5000))
+2022-10-13 15:40:34,742 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=2925, limit=5000))
+2022-10-13 15:40:35,066 - INFO: ----- Processing repo ----- :  enfuse/kafka-connect-demo
+2022-10-13 15:40:38,469 - INFO: Paths copied
+2022-10-13 15:40:38,981 - INFO: Contents extracted
+2022-10-13 15:40:39,070 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=2894, limit=5000))
+2022-10-13 15:40:39,202 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=2894, limit=5000))
+2022-10-13 15:40:39,569 - INFO: ----- Processing repo ----- :  enfuse/kafka-observability
+2022-10-13 15:40:43,540 - INFO: Paths copied
+2022-10-13 15:40:43,686 - INFO: Contents extracted
+2022-10-13 15:40:43,779 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=2863, limit=5000))
+2022-10-13 15:40:43,870 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=2863, limit=5000))
+2022-10-13 15:40:44,272 - INFO: ----- Processing repo ----- :  enfuse/KidsPlayer
+2022-10-13 15:40:49,500 - INFO: Paths copied
+2022-10-13 15:40:49,938 - INFO: Contents extracted
+2022-10-13 15:40:50,031 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=2822, limit=5000))
+2022-10-13 15:40:50,125 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=2822, limit=5000))
+2022-10-13 15:40:50,434 - INFO: ----- Processing repo ----- :  enfuse/lagom-scala-example
+2022-10-13 15:40:54,071 - INFO: Paths copied
+2022-10-13 15:40:54,182 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=2795, limit=5000))
+2022-10-13 15:40:54,503 - INFO: ----- Processing repo ----- :  enfuse/maven-redis-testcontainers
+2022-10-13 15:40:58,782 - INFO: Paths copied
+2022-10-13 15:40:58,921 - INFO: Contents extracted
+2022-10-13 15:40:59,018 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=2758, limit=5000))
+2022-10-13 15:40:59,135 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=2758, limit=5000))
+2022-10-13 15:40:59,444 - INFO: ----- Processing repo ----- :  enfuse/pando-angular
+2022-10-13 15:41:02,180 - INFO: Paths copied
+2022-10-13 15:41:02,280 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=2740, limit=5000))
+2022-10-13 15:41:02,622 - INFO: ----- Processing repo ----- :  enfuse/pando-java
+2022-10-13 15:41:05,010 - INFO: Paths copied
+2022-10-13 15:41:05,185 - INFO: Contents extracted
+2022-10-13 15:41:05,274 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=2720, limit=5000))
+2022-10-13 15:41:05,371 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=2720, limit=5000))
+2022-10-13 15:41:05,773 - INFO: ----- Processing repo ----- :  enfuse/RockPaperScissors
+2022-10-13 15:41:09,385 - INFO: Paths copied
+2022-10-13 15:41:09,544 - INFO: Contents extracted
+2022-10-13 15:41:09,643 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=2692, limit=5000))
+2022-10-13 15:41:09,764 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=2692, limit=5000))
+2022-10-13 15:41:10,077 - INFO: ----- Processing repo ----- :  enfuse/scdf-geode-kafka-demo
+2022-10-13 15:41:21,335 - INFO: Paths copied
+2022-10-13 15:41:21,955 - INFO: Contents extracted
+2022-10-13 15:41:22,059 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=2612, limit=5000))
+2022-10-13 15:41:22,154 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=2612, limit=5000))
+2022-10-13 15:41:22,567 - INFO: ----- Processing repo ----- :  enfuse/scdf-pcc-demo
+2022-10-13 15:41:27,865 - INFO: Paths copied
+2022-10-13 15:41:28,007 - INFO: Contents extracted
+2022-10-13 15:41:28,109 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=2569, limit=5000))
+2022-10-13 15:41:28,202 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=2569, limit=5000))
+2022-10-13 15:41:28,581 - INFO: ----- Processing repo ----- :  enfuse/spring-cloud-dataflow
+2022-10-13 15:43:30,111 - INFO: Paths copied
+2022-10-13 15:43:35,345 - INFO: Contents extracted
+2022-10-13 15:43:35,424 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=1691, limit=5000))
+2022-10-13 15:43:35,517 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=1691, limit=5000))
+2022-10-13 15:43:36,059 - INFO: ----- Processing repo ----- :  enfuse/spring-cloud-stream
+2022-10-13 15:44:16,935 - INFO: Paths copied
+2022-10-13 15:44:20,819 - INFO: Contents extracted
+2022-10-13 15:44:20,910 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=1366, limit=5000))
+2022-10-13 15:44:21,355 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=1365, limit=5000))
+2022-10-13 15:44:21,698 - INFO: ----- Processing repo ----- :  enfuse/spring-cloud-task
+2022-10-13 15:45:06,269 - INFO: Paths copied
+2022-10-13 15:45:10,231 - INFO: Contents extracted
+2022-10-13 15:45:10,323 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=1023, limit=5000))
+2022-10-13 15:45:10,412 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=1023, limit=5000))
+2022-10-13 15:45:10,745 - INFO: ----- Processing repo ----- :  enfuse/spring-task-demo
+2022-10-13 15:45:12,999 - INFO: Paths copied
+2022-10-13 15:45:13,135 - INFO: Contents extracted
+2022-10-13 15:45:13,226 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=1004, limit=5000))
+2022-10-13 15:45:13,312 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=1004, limit=5000))
+2022-10-13 15:45:13,652 - INFO: ----- Processing repo ----- :  enfuse/spring-topdown-test
+2022-10-13 15:45:16,947 - INFO: Paths copied
+2022-10-13 15:45:17,099 - INFO: Contents extracted
+2022-10-13 15:45:17,190 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=979, limit=5000))
+2022-10-13 15:45:17,284 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=979, limit=5000))
+2022-10-13 15:45:17,612 - INFO: ----- Processing repo ----- :  enfuse/weather-alert-processor
+2022-10-13 15:45:18,996 - INFO: Paths copied
+2022-10-13 15:45:19,178 - INFO: Contents extracted
+2022-10-13 15:45:19,273 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=966, limit=5000))
+2022-10-13 15:45:19,364 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=966, limit=5000))
+2022-10-13 15:45:19,673 - INFO: ----- Processing repo ----- :  enfuse/weather-alert-supplier
+2022-10-13 15:45:22,415 - INFO: Paths copied
+2022-10-13 15:45:22,553 - INFO: Contents extracted
+2022-10-13 15:45:22,645 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=943, limit=5000))
+2022-10-13 15:45:22,734 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=943, limit=5000))
+2022-10-13 15:45:23,093 - INFO: ----- Processing repo ----- :  enfuse/xp-workshop
+2022-10-13 15:46:02,716 - INFO: Paths copied
+2022-10-13 15:46:05,438 - INFO: Contents extracted
+2022-10-13 15:46:05,530 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=652, limit=5000))
+2022-10-13 15:46:05,626 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=652, limit=5000))
+2022-10-13 15:46:05,875 - INFO: ----- Processing repo ----- :  mayraq10/dependency_spotlight
+2022-10-13 15:46:06,446 - INFO: Paths copied
+2022-10-13 15:46:07,058 - INFO: Contents extracted
+2022-10-13 15:46:07,147 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=640, limit=5000))
+2022-10-13 15:46:07,236 - INFO: RateLimit(core=Rate(reset=2022-10-13 20:11:59, remaining=640, limit=5000))
+2022-10-13 15:46:07,528 - INFO: ----- Processing repo ----- :  mgq10/git_practice
+2022-10-13 15:46:07,530 - INFO: Paths copied
+2022-10-13 15:46:07,534 - INFO: Process completed.
